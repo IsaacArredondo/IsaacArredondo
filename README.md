@@ -1,6 +1,6 @@
 # 🚴‍♂️ Isaac Arredondo Padrón
 
-**'B.S. in Data Science and Mathematics Engineering (Student)'**
+**`B.S. in Data Science and Mathematics Engineering (Student)`**
 
 #
 
@@ -24,7 +24,7 @@ here I began my path in technology.
 <img align="left" alt="Python" width="26xpx" src="https://i0.wp.com/tinkercademy.com/wp-content/uploads/2018/04/python-icon.png?ssl=1" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26xpx" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />
 <img align="left" alt="R" width="26xpx" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/r-programming-1523093-1290112.png" style="padding-right:10px;" />
-<img align="left" alt="Matlab" width="26xpx" src="https://c7.uihere.com/files/449/527/650/matlab-tutorial-computer-software-engineering-data-analysis-creative-writing-thumb.jpg" style="padding-right:10px;" />
+<img align="left" alt="Matlab" width="26xpx" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="padding-right:10px;" />
 
 # 
 
@@ -44,4 +44,4 @@ Cisco CyberOps Associate
 
 # 📫 Connect with me
 
-<a href="https://mx.linkedin.com/in/isaac-arredondo-5a15031a8"><img align="left" alt="Python" width="65px" src="https://www.hiringstand.com/wp-content/uploads/2020/08/linkedin.png" style="padding-right:10px;" /> <a/>
+<a href="https://mx.linkedin.com/in/isaac-arredondo-5a15031a8"><img align="left" alt="Python" width="75px" src="https://www.hiringstand.com/wp-content/uploads/2020/08/linkedin.png" style="padding-right:10px;" /> <a/>
