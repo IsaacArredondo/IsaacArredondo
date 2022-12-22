@@ -22,9 +22,9 @@ here I began my path in technology.
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26xpx" src="https://i0.wp.com/tinkercademy.com/wp-content/uploads/2018/04/python-icon.png?ssl=1" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26xpx" src="https://cdn.imgbin.com/17/16/16/imgbin-the-c-programming-language-programmer-computer-programming-programming-n4cYwv4X4beficSryz6i3BqWj.jpg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="26xpx" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />
 <img align="left" alt="R" width="26xpx" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/r-programming-1523093-1290112.png" style="padding-right:10px;" />
-<img align="left" alt="Matlab" width="26xpx" src="https://th.bing.com/th/id/OIP.LzteDn65vYrJ5XbxxgCgbwAAAA?pid=ImgDet&rs=1" style="padding-right:10px;" />
+<img align="left" alt="Matlab" width="26xpx" src="https://c7.uihere.com/files/449/527/650/matlab-tutorial-computer-software-engineering-data-analysis-creative-writing-thumb.jpg" style="padding-right:10px;" />
 
 # 
 
