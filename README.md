@@ -1,4 +1,4 @@
-# 🚴‍♂️ Isaac Arredondo  👋
+# 🚴‍♂️ Isaac Arredondo Padrón
 
 **'B.S. in Data Science and Mathematics Engineering (Student)'**
 
@@ -44,4 +44,4 @@ Cisco CyberOps Associate
 
 # 📫 Connect with me
 
-[linkedin]: https://mx.linkedin.com/in/isaac-arredondo-5a15031a8
+[<img align="left" alt="Python" width="26xpx" src="https://www.hiringstand.com/wp-content/uploads/2020/08/linkedin.png" style="padding-right:10px;" />] [https://mx.linkedin.com/in/isaac-arredondo-5a15031a8]
