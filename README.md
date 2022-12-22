@@ -44,4 +44,4 @@ Cisco CyberOps Associate
 
 # 📫 Connect with me
 
-[<a href="https://mx.linkedin.com/in/isaac-arredondo-5a15031a8"<img align="left" alt="Python" width="26xpx" src="https://www.hiringstand.com/wp-content/uploads/2020/08/linkedin.png" style="padding-right:10px;" /> <a/>]
+[<a href="https://mx.linkedin.com/in/isaac-arredondo-5a15031a8"><img alt="Python" width="26xpx" src="https://www.hiringstand.com/wp-content/uploads/2020/08/linkedin.png" style="padding-right:10px;" /> <a/>]
