@@ -27,6 +27,7 @@ here I began my path in technology.
 <img align="left" alt="Matlab" width="26xpx" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="padding-right:10px;" />
 
 <br />
+<br />
 # 
 
 
@@ -34,11 +35,9 @@ here I began my path in technology.
 
 # 🔐 Cybersecurity Projects
 
-#
 
 # 🖥️ Data Science Projects
 
-#
 
 # ⚡ Certifications
 
