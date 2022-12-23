@@ -25,6 +25,8 @@ here I began my path in technology.
 <br />
 <br />
 
+# 📈 My Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaacArredondo&theme=radical)
 
 # 🔐 Cybersecurity Projects
