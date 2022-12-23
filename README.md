@@ -2,16 +2,12 @@
 
 **`B.S. in Data Science and Mathematics Engineering (Student)`**
 
-#
-
 # 🔭 Isaac's Tech Journey
 
 I have always been passionate about mathematics, since I was little I participated in competitions obtaining good results, 
 when I was in high school I studied mechanics, but I didn't really like handling irons, so I decided to study mathematics, 
 and at Tec de Monterrey I managed to win a full scholarship to study mathematics applied to data science, 
 here I began my path in technology.
-
-#
 
 # 🌱 Languages and Tools
 
@@ -28,8 +24,6 @@ here I began my path in technology.
 
 <br />
 <br />
-# 
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaacArredondo&theme=radical)
 
@@ -42,8 +36,6 @@ here I began my path in technology.
 # ⚡ Certifications
 
 Cisco CyberOps Associate
-
-#
 
 # 📫 Connect with me
 
